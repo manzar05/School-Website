@@ -1,0 +1,7 @@
+.landing_div{
+    background-image: url('../images/img/header.png');
+    background-size:contain;
+    background-position: center; 
+    background-repeat: no-repeat;
+    object-fit: cover;
+}

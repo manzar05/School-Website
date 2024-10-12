@@ -1,0 +1,21 @@
+.title::before{
+  content: "";
+  position: absolute;
+  top: 14px;
+  left: 88%;
+  width: 20%;
+  height: 2px;
+  background-color: #17a2b8;
+}
+
+.centertitle::after{
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 50%;
+  width:25%;
+  height: 2px;
+  padding: 0rem 0.5rem;
+  background: #17a2b8;
+  transform: translateX(-50%);
+}

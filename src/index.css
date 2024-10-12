@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+.header{
+  font-family: "Handlee", cursive;
+}
